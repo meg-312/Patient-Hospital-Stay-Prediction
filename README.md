@@ -25,7 +25,7 @@ This project predicts hospital stay durations based on patient data, using a Lin
   - **Previous Admissions**: Patients with more prior admissions tend to stay longer.
 
 ### 2. Data Preprocessing
-- Changing the missing values for days_stayed and age with the mean.
+- Changing the missing values for days stayed and age with the mean.
 - One-hot encoding was applied to the Severity feature.
 - The data was split into training and testing sets to evaluate model performance.
 
